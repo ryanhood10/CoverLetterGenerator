@@ -41,7 +41,6 @@ function MainPage() {
 
     try {
       const response = await fetch(
-        // "https://cvl-generator-a8eca88952f3.herokuapp.com/completions",  options );
         "https://cover-letter-generator-ai-b7323a56ca78.herokuapp.com/completions",  options );
         // "http://localhost:3001/completions",  options );
 
